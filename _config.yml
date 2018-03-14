@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Devaroop Bhattacharya
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -76,15 +76,15 @@ social-network-links:
   facebook: devaroopb
   github: devaroop
   twitter: devaroop_
-#  reddit: yourname
+  reddit: devaroop123
 #  google-plus: +DeanAttali
-#  linkedin: daattali
+  linkedin: devaroop
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "909297/devaroop"
 #  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
+  instagram: devaroop
+  youtube: user/devaroop
+  spotify: devroop
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
