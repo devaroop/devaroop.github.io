@@ -120,7 +120,7 @@ google_analytics: "UA-51240986-2"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "devaroop"
 
 # Facebook App ID
 # fb_app_id: ""
