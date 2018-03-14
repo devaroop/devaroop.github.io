@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: You sure do like me, here's something more...
 ---
 
-Im Devaroop Bhattacharya from India. I strongly believe in doing something meaningful to people around me. So, if you're looking for any help, please reach out.
+Im Devaroop Bhattacharya from India. I strongly believe in creating meaningful stuff which help the society.
 
-I live with my wife and a innocent dog and my opinions are personal.
+I *live life* with my wife and an <a target="blank" href="https://www.facebook.com/dogbeingbob">innocent dog</a> and my opinions are personal.
 
-How about we get to know each other? I'd love to hear from you.
+How about we get to know each other? I'd love to hear from you. Cheers!
