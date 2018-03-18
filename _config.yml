@@ -43,13 +43,13 @@ avatar: "/img/avatar.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#d87848"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+footer-col: "#d87848"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -74,18 +74,18 @@ author:
 social-network-links:
   rss: true
   email: "devaroop123@gmail.com"
-  facebook: devaroopb
+#  facebook: devaroopb
   github: devaroop
   twitter: devaroop_
-  reddit: devaroop123
+#  reddit: devaroop123
 #  google-plus: +DeanAttali
   linkedin: devaroop
 #  xing: yourname
   stackoverflow: "909297/devaroop"
 #  snapchat: deanat78
-  instagram: devaroop
-  youtube: user/devaroop
-  spotify: devroop
+#  instagram: devaroop
+#  youtube: user/devaroop
+#  spotify: devroop
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -95,7 +95,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
