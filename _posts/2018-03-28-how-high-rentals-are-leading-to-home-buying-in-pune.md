@@ -36,7 +36,7 @@ I planned to move from this under-privileged area and started looking up homes i
 2. Best rent (higher than average - in turn, raising the average)
 3. Miscellaneous legal care
 
-which is great for the owner and the broker but exploits the renter. A decade old broker from the infamous Viman Nagar has started charging a non-negotiable 1.5 months rent as brokerage making a fortune for himself and exploiting the needy. With an knee breaking daily commute, employees tend to move close to work - raising rental demands. The rentals today have reached INR 20k p.m for a livable 2BHK in a decent society in these areas. The purchasing power of people migrating from cities such as Gurugram, Bangalore and Mumbai have additionally fuelled the rise in rentals.
+which is great for the owner and the broker but exploits the renter. A decade old broker from the infamous Viman Nagar has started charging a non-negotiable 1.5 months rent as brokerage making a fortune for himself and exploiting the needy. With a knee breaking daily commute, employees tend to move close to work - raising rental demands. The rentals today have reached INR 20k p.m for a livable 2BHK in a decent society in these areas. The purchasing power of people migrating from cities such as Gurugram, Bangalore and Mumbai have additionally fuelled the rise in rentals.
 
 
 #### How is Real Estate sales increasing?
