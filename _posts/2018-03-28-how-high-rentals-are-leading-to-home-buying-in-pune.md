@@ -27,6 +27,7 @@ Pune strategically houses an _IT park in every 10km or less_ from Hinjewadi to F
 | Fursungi - SP | Hadapsar, Fatima Nagar, NIBM, Amanora, Magarpatta |
 |--------------------------|------------------------|
 
+-----------------------------------------------------
 #### The middlemen a.k.a Brokers
 
 I planned to move from this under-privileged area and started looking up homes in other parts of the city. My wife refused to travel more than 10km to Kharadi making it more difficult. A nice initiative [nobroker.in](http://nobroker.in){:target="_blank"} is failing traction from home owners who do not have time to manage their investments and hand it over to local brokers. The broker business guarantees -
