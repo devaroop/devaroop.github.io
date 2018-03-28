@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How high rents is leading to home buying in Pune
-subtitle: Brokers playing a nasty role
+title: How high rentals are leading to home buying in Pune
+subtitle: Brokers playing the nasty role
 tags: [how series, pune]
 ---
 
@@ -26,9 +26,10 @@ Pune strategically houses an _IT park in every 10km or less_ from Hinjewadi to F
 | Magarpatta | Hadapsar, Mundhwa, Wadgaon Sheri, Kharadi, Wagholi |
 | Fursungi - SP | Hadapsar, Fatima Nagar, NIBM, Amanora, Magarpatta |
 
+
 #### The middlemen a.k.a Brokers
 
-I planned to move from this under-privileged area and started looking up homes in other parts of the city. My wife refused to travel more than 10km to Kharadi making it more difficult. A nice initiative nobroker.com is failing traction from home owners who do not have time to manage their investments and hand it over to local brokers. The broker business guarantees -
+I planned to move from this under-privileged area and started looking up homes in other parts of the city. My wife refused to travel more than 10km to Kharadi making it more difficult. A nice initiative [nobroker.com](http://nobroker.com){:target="_blank"} is failing traction from home owners who do not have time to manage their investments and hand it over to local brokers. The broker business guarantees -
 
 1. Sure occupancy of apartment every month
 2. Best rent (higher than average - in turn, raising the average)
