@@ -37,5 +37,5 @@ The lady who walks her dog with mine, casually asked me what I think her son sho
 ### Conclusion
 I wished someone told me my approach was wrong 15 years ago. I wished I grew up among people who had the urge to find out what they wanted, rather than told what they should want. Indians do not have to supply to the demand.
 
-_I'm just another Bastard of Macaulay urging you to prevent yourself and people around you to be another Indian Bull._
+_I'm just another Bastard of Macaulay urging you to prevent yourself and people around you to becoming another Indian Bull._
 
