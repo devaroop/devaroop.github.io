@@ -28,7 +28,7 @@ I grew up seeing my parents doing a daily job and urging me to secure a good gra
 
 Thats how its made.
 
-White collar jobs in India are mostly the ones outsourced from westerners because they are mundane, time consuming, non-creative, cheap and attention oriented. Sharpest minds from top colleges in India are also designed to work for the westerners. While it is portrayed as one of the best worlds to live in - with decent money, medical insurances, weekly offs, work from home, etc., an average employee still has to beg madly for a mere 2 week holiday raising eyebrows among employers. While you can still argue thats how jobs are, an average mid-class individual who has spent more than 5 years in a job is capable of doing nothing else because he is just trained to do just _one_ job.
+White collar jobs in India are mostly the ones which are mundane, time consuming, non-creative, cheap and attention oriented. Sharpest minds from top colleges in India are also designed to work for the westerners. While it is portrayed as one of the best worlds to live in - with decent money, medical insurances, weekly offs, work from home, etc., an average employee still has to beg madly for a mere 2 week holiday raising eyebrows among employers. While you can still argue thats how jobs are, an average mid-class individual who has spent more than 5 years in a job is capable of doing nothing else because he is just trained to do just _one_ job.
 
 Ten years down, when I realise what I've done to myself, I still continue to live that life. The job gives me money, a proud family who think I research on next generation rockets, and a society which respects me looking at the assets. The power of the gifted mind is evaporated in the air and I just follow orders now.
 
