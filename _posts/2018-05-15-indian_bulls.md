@@ -32,7 +32,7 @@ White collar jobs in India are mostly the ones outsourced from westerners becaus
 
 Ten years down, when I realise what I've done to myself, I still continue to live that life. The job gives me money, a proud family who think I research on next generation rockets, and a society which respects me looking at the assets. The power of the gifted mind is evaporated in the air and I just follow orders now.
 
-The lady who walks her dog with mine, casually asked me what I think her son should take up next after school. She probably hates me after I asked her to get him through career counselling to see where his interests lay. Indians assume career counselling is for psychopaths who do not know what to do. Her son finally enrolled to become and engineer.
+The lady who walks her dog with mine, casually asked me what I think her son should take up next after school. She probably hates me after I asked her to get him through career counselling to see where his interests lay. Indians assume career counselling is for psychopaths who do not know what to do. Her son finally enrolled to become an engineer like everyone else did.
 
 ### Conclusion
 I wished someone told me my approach was wrong 15 years ago. I wished I grew up among people who had the urge to find out what they wanted, rather than told what they should want. Indians do not have to supply to the demand.
