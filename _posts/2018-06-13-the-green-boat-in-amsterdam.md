@@ -75,7 +75,7 @@ And it happened. _The Green Boat_ was there again! Same boat with the three guys
 This time, we spoke to the hosts. 
 
 The pilot, [  
-Martin Te Riele](https://www.facebook.com/martin.teriele){:target="_blank"} is a super-talented man who built the boat all by himself. He carefully chose to design the boat from ground up without any heavy manufacturing equipment. He is a king on the seat holding the cruiser motorbike handle to steer the boat whenever he wishes. He planted a cool bath tub at the center of the boat boasting a presence of a private pool inside. He also showed us a camping house that he made in his backyard. He loves to drive his boat and enjoy life as he wishes. Im sure he is proud of himself.
+Martin Te Riele](https://www.facebook.com/martin.teriele){:target="_blank"} is a super-talented man who built the boat all by himself. He carefully chose to design the boat from ground up without any heavy manufacturing equipment. He is a king on the seat holding the cruiser motorbike handle to steer the boat wherever he wishes. He planted a cool bath tub at the center of the boat boasting a presence of a private pool inside. He also showed us a camping house that he made in his backyard. He loves to drive his boat and enjoy life as he wishes. Im sure he is proud of himself.
 
 The beautiful [Saskia Gulien](https://www.facebook.com/saskia.gulien.1){:target="_blank"} is the reason we could be on the boat. She invited us to be on it for the dreamy rides.
 
