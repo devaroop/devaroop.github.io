@@ -35,10 +35,10 @@ In no time, we were sailing beside quacking ducks and swans, gazing the beautifu
 		<img src="/img/amsboat_inboat.jpg" alt="In the boat">
 	</div>
 	<div class="col-md-3" style="text-align:center;">
-		<img src="/img/amsboat_inboat2.jpg" alt="In the boat">
+		<img src="/img/amsboat_inboat3.jpg" alt="In the boat">
 	</div>
 	<div class="col-md-3" style="text-align:center;">
-		<img src="/img/amsboat_inboat3.jpg" alt="In the boat">
+		<img src="/img/amsboat_inboat2.jpg" alt="In the boat">
 	</div>
 	<div class="col-md-3" style="text-align:center;">
 		<img src="/img/amsboat_inboat4.jpg" alt="In the boat">
