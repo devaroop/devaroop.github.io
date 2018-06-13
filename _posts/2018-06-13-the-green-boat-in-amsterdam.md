@@ -30,11 +30,21 @@ The lady replied - _"Sure, do you want to come over and join us?"_. By the time 
 
 In no time, we were sailing beside quacking ducks and swans, gazing the beautiful architected bridges and buildings of Amsterdam. We went all around Amsterdam treating our eyes to the house boats and waving to the crowd who all clicked pictures, accompanied with music, drinks, snacks and company of the Dutch. The boat caught the eye of every bystander and the neighbouring boats all along the way. 
 
-<div style="text-align:center;">
-	<img src="/img/amsboat_inboat.jpg" alt="In the boat">
-	<img src="/img/amsboat_inboat2.jpg" alt="In the boat">
-</div>
+<div class="row">
+	<div class="col-md-3" style="text-align:center;">
+		<img src="/img/amsboat_inboat.jpg" alt="In the boat">
+	</div>
+	<div class="col-md-3" style="text-align:center;">
+		<img src="/img/amsboat_inboat2.jpg" alt="In the boat">
+	</div>
+	<div class="col-md-3" style="text-align:center;">
+		<img src="/img/amsboat_inboat3.jpg" alt="In the boat">
+	</div>
+	<div class="col-md-3" style="text-align:center;">
+		<img src="/img/amsboat_inboat4.jpg" alt="In the boat">
+	</div>
 
+</div>
 
 I whispered to my wife - _"Is this how celebrities feel?"_. She said nothing. She was still pending to believe it was real. The dog (_Roxy_) didn't leave a single chance to keep going around the boat and sniffing everyone for food while also resting under the plants when tired.
 
@@ -43,6 +53,16 @@ The party aggravated when everyone started to dance to the peppy Dutch tunes fro
 ##### Later
 
 We mellowed as evening approached. We thanked the guys and got off to sit on a bench and digest what just happened. As the day ended, we pinched ourselves to convince it was real. We didn't get a chance to know the hosts and we felt sorry. 
+
+<div class="row">
+	<div class="col-md-6" style="text-align:center;">
+		<img src="/img/amsboat_theboat.jpg" alt="The boat full">
+	</div>
+	<div class="col-md-6" style="text-align:center;">
+		<img src="/img/amsboat_theboat2.jpg" alt="In the boat">
+	</div>
+</div>
+
 
 But, it was true - _We were lucky and got picked up at Amsterdam and partied on the custom handmade boat with lovely Dutch company for real!_ When we shared this at our hostel that night, it was very hard to convince people. While Amsterdam is all about cool Netherlanders, this event is not likely for anyone on any day, even for the locals. Frankly, even we were not fully convinced of what happened to us.
 
@@ -63,6 +83,12 @@ The ever cheerful childhood friend of Martin, who are together since they grew u
 
 And, needless to mention, _Roxy_ - the cute dog who added to the beauty of the boat.
 
+<div class="row">
+	<div class="col-md-12" style="text-align:center;">
+		<img src="/img/amsboat_all.jpg" alt="The boat full">
+	</div>
+</div>
+
 We were in company of a very good and kind family. We spoke a lot and exchanged contacts this time. We were emotional when we got off at last and kept waving back to them till we could see them disappear in the waters.
 
 #### Finally..
@@ -73,4 +99,4 @@ This doesn't happen in Amsterdam, it just happened to us, **_twice_**. I think w
 
 Cheers!
 
-<sub>(Im sure people in Amsterdam are curious to meet the creators of _The Green Boat_. Please find their Facebook contacts above.) </sub>
+<sub>(Im sure people in Amsterdam are curious to meet the creators of _The Green Boat_. Please find their Facebook contacts above. Also, I only had limited photos of us, I was enjoying the whole time.) </sub>
