@@ -3,7 +3,8 @@ layout: post
 title: The Green Boat in Amsterdam
 subtitle: Custom anonymous boat of Amsterdam we were lucky to be on.
 tags: [amsterdam, dutch, netherlands, euro trip, green boat]
-bigimg: /img/bigimg_ams_boat.jpg
+bigimg: /img/bigimg_ams_fullboat.jpg
+show-avatar: false
 ---
 
 <sub>The article is a 8 min read...<sub>
@@ -49,7 +50,9 @@ The beautiful [Saskia Gulien](https://www.facebook.com/saskia.gulien.1) is the r
 
 The ever cheerful childhood friend of Martin, who are together since they grew up was the third lovely person on the boat. He was smiling always and was a very enthusiastic party person who loved spending time with the other two.
 
-We spoke a lot amongst each other and exchanged contacts this time. We were emotional when we got off at last and kept waving back to them till we could see them disappear in the waters.
+And, needless to mention, _Roxy_ - the cute dog who added to the beauty of the boat.
+
+We were in company of a very good and kind family. We spoke a lot and exchanged contacts this time. We were emotional when we got off at last and kept waving back to them till we could see them disappear in the waters.
 
 #### Finally..
 
