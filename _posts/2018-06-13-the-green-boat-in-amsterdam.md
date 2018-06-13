@@ -5,6 +5,7 @@ subtitle: Custom boat of Amsterdam built by talented local man.
 tags: [amsterdam, dutch, netherlands, euro trip, green boat]
 bigimg: /img/bigimg_ams_fullboat.jpg
 show-avatar: false
+share-img: http://devaroop.com/img/bigimg_ams_fullboat.jpg
 ---
 
 <sub>The article is a 7 min read...<sub>
@@ -17,8 +18,9 @@ Chilling by a random canal in Amsterdam on a beautiful morning, we were watching
 
 While every passing boat was carefully crafted to beauty, a _Green Boat_ surprisingly appeared from the bridge conduit, full of naturally grown plants. The pilot was manoeuvring sitting on a comfortable sofa with a cruiser motorbike handle. There was a beautiful lady on the edge with dipped toes, and another cheerful man holding a beer-can at the corner, and a cute small dog roaming all around. The bridge quickly filled with bystanders clicking photos of them.
 
-[The Green Boat]({{ "/img/amsboat_intro.jpg" | absolute_url }})
-
+<div style="text-align:center;">
+	<img src="/img/amsboat_intro.jpg" alt="The Green Boat">
+</div>
 
 The awe instinctively made me shout to them - _"Hey, thats a superb boat. May I click a picture?"_
 
