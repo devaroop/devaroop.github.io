@@ -30,6 +30,12 @@ The lady replied - _"Sure, do you want to come over and join us?"_. By the time 
 
 In no time, we were sailing beside quacking ducks and swans, gazing the beautiful architected bridges and buildings of Amsterdam. We went all around Amsterdam treating our eyes to the house boats and waving to the crowd who all clicked pictures, accompanied with music, drinks, snacks and company of the Dutch. The boat caught the eye of every bystander and the neighbouring boats all along the way. 
 
+<div style="text-align:center;">
+	<img src="/img/amsboat_inboat.jpg" alt="In the boat">
+	<img src="/img/amsboat_inboat2.jpg" alt="In the boat">
+</div>
+
+
 I whispered to my wife - _"Is this how celebrities feel?"_. She said nothing. She was still pending to believe it was real. The dog (_Roxy_) didn't leave a single chance to keep going around the boat and sniffing everyone for food while also resting under the plants when tired.
 
 The party aggravated when everyone started to dance to the peppy Dutch tunes from the bluetooth speaker. Im sure we got clicked roughly 10000 times by Amsterdammers in the 3 hour surprise.
