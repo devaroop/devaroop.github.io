@@ -3,7 +3,6 @@ layout: post
 title: Our most expensive and unused subscription
 subtitle: A paid service you hardly use but keep paying
 tags: [how series, government]
-bigimg: /img/paid_subscription.jpg
 share-img: http://devaroop.com/img/paid_subscription.jpg
 ---
 
