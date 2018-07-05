@@ -42,7 +42,7 @@ Its hard to believe such different people still exist in today's modernised worl
 
 An excerpt from his blog says - _" I am interested in the return to nature and a healthy lifestyle at the spiritual level = with pure karma. I seek harmony with myself, the environment, nature, the planet and the whole universe"_
 
-I wish him luck in his _"ahimsa"_ journey.
+I wish him luck in his [_"ahimsa"_](https://en.wikipedia.org/wiki/Ahimsa){:target="_blank"} journey.
 
 Cheers!
 
