@@ -14,7 +14,7 @@ We approached and requested to click a pic with him. He nodded yes and we clicke
 
 <div class="row">
 	<div class="col-md-12" style="text-align:center;">
-		<img src="/img/mira_ahimsa_selfie.jpeg" alt="With Mira Ahimsa">
+		<img width="50%" height="50%" src="/img/mira_ahimsa_selfie.jpeg" alt="With Mira Ahimsa">
 	</div>
 </div>
 
