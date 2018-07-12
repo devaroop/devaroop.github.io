@@ -3,7 +3,7 @@ layout: post
 title: Mira Ahimsa
 subtitle: The all-natural human in Europe
 tags: [interesting, gratitude, lifestyle]
-share-img: http://devaroop.com/img/mira_ahimsa_cover.jpg
+share-img: https://devaroop.com/img/mira_ahimsa_cover.jpg
 ---
 
 <sub> This article is a 3 min read.. </sub>

@@ -5,7 +5,7 @@ subtitle: Custom boat of Amsterdam built by talented local man.
 tags: [amsterdam, dutch, netherlands, euro trip, green boat, gratitude]
 bigimg: /img/bigimg_ams_fullboat.jpg
 show-avatar: false
-share-img: http://devaroop.com/img/bigimg_ams_fullboat.jpg
+share-img: https://devaroop.com/img/bigimg_ams_fullboat.jpg
 ---
 
 <sub>The article is a 7 min read...<sub>
