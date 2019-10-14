@@ -34,7 +34,9 @@ Madam started to accompany us for walks recently but would return from half way 
 
 She made it. And she could believe herself seeing this beautiful part of the world. She ran around smelling the flowers, rolling her back on the grass and playing with Bob with twigs.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Aq7si_mOwmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="text-align:center">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/Aq7si_mOwmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Later, she settled near a puddle and was hunting for toads with her hands. She couldn't get any though :)
 
