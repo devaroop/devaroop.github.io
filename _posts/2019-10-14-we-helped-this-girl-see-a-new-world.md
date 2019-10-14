@@ -8,7 +8,7 @@ show-avatar: false
 share-img: https://devaroop.com/img/madam_cover.jpg
 ---
 
-<sub>The article is a 3 min read...<sub>
+<sub>The article is a 2 min read...<sub>
 
 Meet "Madam", a stray female dog who forced herself into our porch for protection from 15 other dogs waiting at the gate to rape her when she'd come out. It was the mating season and it was a difficult time for all the furry strays to prove their strength in the pack. We did our best to protect Madam, but could only do little to go against nature. Thankfully she's already neutered.
 
