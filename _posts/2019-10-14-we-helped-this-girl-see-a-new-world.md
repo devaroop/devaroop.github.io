@@ -26,13 +26,13 @@ The season ended after three weeks, but Madam stayed on. I now get to see two ta
 Dogs are territorial. And for strays, it is very strict. The pets get to cross territories during neighborhood walks, but the strays spend all their lives guarding the restricted zone. Any unauthorized entry to another zone costs them heavy injuries and occasionally even death.
 
 #### Madam makes it out today
-Madam started to accompany us for walks recently but would return from half way when the others chased her. But today, I got the leash off Bob and put it on Madam. With minor inconvenience and hesitation, she sneaked with us putting others behind to reach to the top of the hill.
+Madam started to accompany us for walks recently but would return from half way when the others chased her. But today, we got the leash off Bob and put it on Madam to keep her close to us and give her the courage. With minor inconvenience and hesitation, she sneaked with us putting others behind to reach to the top of the hill.
 
 <div style="text-align:center;">
     <img src="/img/madam_flowers.jpg" alt="Madam running around flowers">
 </div>
 
-She made it. And she could believe herself seeing this beautiful part of the world. She ran around smelling the flowers, rolling her back on the grass and playing with Bob with twigs.
+She made it. And she could believe herself seeing this beautiful part of the world. She ran around smelling the flowers, rolling her back on the grass and playing heavy with Bob.
 
 <div style="text-align:center">
      <iframe width="560" height="315" src="https://www.youtube.com/embed/Aq7si_mOwmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -44,9 +44,4 @@ Later, she settled near a puddle and was hunting for toads with her hands. She c
     <img src="/img/madam_bob_toad.jpg" alt="Madam hunting toad">
 </div>
 
-We feel happy to have helped this girl see a new part of the world which she wouldn't have otherwise. We look forward to help her achieve this more although we don't know if we will adopt her yet.
-
-
-
-
-
+We feel happy to have helped this girl see a new part of the world which she wouldn't have otherwise. We look forward to help her achieve this more although we don't know if we will adopt her yet. Cheers!
