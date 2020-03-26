@@ -3,7 +3,6 @@ layout: post
 title: A letter to my Father
 subtitle: Thanking you for making us what we are today
 tags: [gratitude, tribute, father]
-bigimg: /img/baa.jpg
 show-avatar: false
 share-img: https://devaroop.com/img/baa.jpg
 ---
